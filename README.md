@@ -1,6 +1,6 @@
 # 💫 About Me
-<h1 align="center">Hey there 👋, I'm Adil Farooq</h1>
-<h3 align="center">Full-Stack Developer | Specialized in Next.js & MERN Stack</h3>
+<h1>Hey there 👋, I'm Adil Farooq</h1>
+<h3>Full-Stack Developer | Specialized in Next.js & MERN Stack</h3>
 
 
 ## 🌐 Socials:
