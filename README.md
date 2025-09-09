@@ -16,7 +16,7 @@ Hey there 👋, I'm Muhammad Adil Farooq<br>
 ---
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,expressjs,tailwind,docker,postgres,prisma,mongodb,nodejs,java,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,expressjs,tailwind,docker,postgres,prisma,mongodb,nodejs,java,python,figma)](https://skillicons.dev)
 
 ---
 
